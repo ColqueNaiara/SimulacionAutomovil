@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\bin\Debug\net8.0\SimuladorAutomovil.exe
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\bin\Debug\net8.0\SimuladorAutomovil.deps.json
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\bin\Debug\net8.0\SimuladorAutomovil.runtimeconfig.json
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\bin\Debug\net8.0\SimuladorAutomovil.dll
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\bin\Debug\net8.0\SimuladorAutomovil.pdb
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.dll
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\refint\SimuladorAutomovil.dll
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.pdb
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\SimuladorAutomovil.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\SimuladorAutomovil\SimuladorAutomovil\obj\Debug\net8.0\ref\SimuladorAutomovil.dll
