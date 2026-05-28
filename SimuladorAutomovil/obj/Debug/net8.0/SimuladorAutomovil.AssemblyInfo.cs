@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladorAutomovil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+700a63981e96ffa99fa0772a5dcada9f57cc9b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladorAutomovil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladorAutomovil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
